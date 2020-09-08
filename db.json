@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Harshit",
+      "email": "harshit@jh.com"
+    },
+    {
+      "name": "shubham",
+      "email": "2016255@iiitdmj.ac.in",
+      "phone": "",
+      "id": 2
+    }
+  ]
+}
